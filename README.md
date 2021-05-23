@@ -1,2 +1,2 @@
 # Screen-Recorder
-soon...
+You can record your screen with this python script
