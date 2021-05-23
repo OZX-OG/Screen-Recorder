@@ -1,4 +1,6 @@
+# Code Changed, Optimized And Commented By: OZX-OG
 #import libraries
+
 import time
 import cv2
 import numpy as np
@@ -61,8 +63,4 @@ while True:
         print(f"{Fore.RED}- End Record -")
         time.sleep(0.5)
         break
-    
-    
-    
-    
-
+        
